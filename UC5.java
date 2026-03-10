@@ -2,7 +2,7 @@ public class UC5 {
 
     public static void main(String[] args) {
 
-       //UC5
+       //UC5 hfjh
         String[] lines = {
             String.join(" ", " *** ", " *** ", " **** ", " ***** "),
             String.join(" ", "*   *", "*   *", "*   *", "*"),
